@@ -1,6 +1,6 @@
 <div align= "Left">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=90b5fe&height=120&text=Minsol%20Lee&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
+    </div><br>
 
 **화학물질 관리와 데이터 분석**, 그리고 **AI 소프트웨어 기술의 융합**을 통해 환경과 안전에 기여하고 싶은 **이민솔**입니다.
 
