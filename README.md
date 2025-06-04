@@ -29,7 +29,14 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
+<br>
+<br>
+<h3 align="left">진행중인 프로젝트</h3>
+<ol align="left">
+<li><a href="https://github.com/MintsaIt/Smart-RT">SMART-RT : AI 자동인식 재활용 분류기</li>
+<li><a href="">New:speak : 사용자 맞춤 추천뉴스 요약 서비스 </a></li>
 
+</ol>
 <br>
 <br>
 <h3 align="left">알고리즘 문제</h3>
@@ -45,6 +52,11 @@
 <ul align="left">
 <li><a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EC%A4%91%EC%9C%84%EC%88%98%EC%8B%9D_%ED%9B%84%EC%9C%84%EC%A0%84%ED%99%98%ED%95%A8%EC%88%98.ipynb">중위수식 후위변환</li>
 <li><a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0_250512.ipynb">큐를 활용한 미로찾기</li>
+</ul>
+
+<h4 align="left">   2025.06</h4>
+<ul align="left">
+<li><a href="https://github.com/MintsaIt/Algorithm/blob/main/%EB%AA%A8%EC%8A%A4_%EC%BD%94%EB%93%9C_%ED%8A%B8%EB%A6%AC%EA%B5%AC%EC%A1%B0_250603_%EC%9D%B4%EB%AF%BC%EC%86%94.ipynb">모스 코드_이진트리</li>
 </ul>
 
 
