@@ -1,11 +1,12 @@
-# About Me
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=90b5fe&height=120&text=Minsol%20Lee&animation=&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 한국에서 개발을 공부중인 이민솔입니다.<br></li>Hello, I'm Minsol Lee. I'm a student studying development in Korea.<br> </div> 
+    </div>
 
-<div align="center">
-  안녕하세요, 한국에서 개발을 공부중인 이민솔입니다.<br>
-  Hello, I'm Minsol Lee. I'm a student studying development in Korea.<br>
-</div>
-<br>
-
+    
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
