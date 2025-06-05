@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=90b5fe&height=120&text=Minsol%20Lee&animation=&fontColor=ffffff&fontSize=60" />
 </div><br>
 
-**화학물질 관리와 데이터 분석**, 그리고 **AI 소프트웨어 기술의 융합**을 통해 환경과 안전에 기여하고 싶은 **이민솔**입니다.
+안녕하세요! **화학물질 관리와 데이터 분석**, 그리고 **AI 소프트웨어 기술의 융합**을 통해 환경과 안전에 기여하고 싶은 **이민솔**입니다.
 
 응용화학과 국제통상학을 전공하며 이론과 실무의 균형을 갖추었고, 졸업 이후에는 **QA, 화학물질 안전관리, 데이터 기반 자동화, AI 활용** 등의 현장 경험을 통해 전문성을 다졌습니다.
 
