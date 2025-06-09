@@ -90,7 +90,7 @@
 ### 진행중인 프로젝트
 
 1. [SMART-RT : AI 자동인식 재활용 분류기](https://github.com/MintsaIt/Smart-RT)  
-2. [New:speak : 사용자 맞춤 추천뉴스 요약 서비스](#)  
+2. [New:speak : 사용자 맞춤 추천뉴스 요약 서비스](https://github.com/MintsaIt/New-speak)  
 
 ---
 
