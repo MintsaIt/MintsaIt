@@ -82,13 +82,6 @@
 
 ## 🧩 Projects & Personal Study
 
-- **월드뱅크 ESG 데이터를 활용한 머신러닝 자동화 분석**  
-  - Pandas와 Matplotlib을 활용한 시각화  
-
----
-
-### 진행중인 프로젝트
-
 1. [SMART-RT : AI 자동인식 재활용 분류기](https://github.com/MintsaIt/Smart-RT)  
 2. [New:speak : 사용자 맞춤 추천뉴스 요약 서비스](https://github.com/MintsaIt/New-speak)  
 
